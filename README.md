@@ -1,12 +1,9 @@
 # Recipes App
 
-<p align="center">
- <img width="900" src="" alt="exemplo imagem" >
-</p>
 
 ## 💻 Project
 
- In this app it is possible to view, search, filter, favorite and track the progress of preparation of recipes and drinks! The database was 2 distinct APIs, one for food ([TheMealDB](https://www.themealdb.com/)) and another for drinks ([The CockTailDB](https://www.thecocktaildb.com/api.php)). Unit tests were implemented with Jest and the organization of the activities was done following the Kanban model, using the tool [Trello](https://trello.com/). Go to [PROJECT]() for more details.
+ In this app it is possible to view, search, filter, favorite and track the progress of preparation of recipes and drinks! The database has 2 distinct APIs, one for food ([TheMealDB](https://www.themealdb.com/)) and another for drinks ([The CockTailDB](https://www.thecocktaildb.com/api.php)). Unit tests were implemented with Jest and the organization of the activities was done following the Kanban model, using the tool [Trello](https://trello.com/). Go to [PROJECT]() for more details.
 
 
 ## 🚀 Technologies
