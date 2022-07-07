@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6637be3c.css",
+    "main.js": "/static/js/main.ac90e2a5.js",
+    "static/media/background.jpg": "/static/media/background.a4738c52eeade6ad3a16.jpg",
+    "static/media/logo.png": "/static/media/logo.79d66d0c7d11b105e089.png",
+    "static/media/shareIcon.svg": "/static/media/shareIcon.87def1bd1dff9af9263f046c3b9bd31a.svg",
+    "static/media/whiteHeartIcon.svg": "/static/media/whiteHeartIcon.2b822118952dc5140129c6349fcd0472.svg",
+    "static/media/blackHeartIcon.svg": "/static/media/blackHeartIcon.083cb006913d197c95857ebfa2161db7.svg",
+    "static/media/not-found.svg": "/static/media/not-found.07d5132966be226fa0e65da33f449108.svg",
+    "static/media/loading.svg": "/static/media/loading.ceee4d02b167dc3c647ace64056896a2.svg",
+    "static/media/drinkIcon.svg": "/static/media/drinkIcon.c1f1cab0df2631cfd20a9600664ce3a5.svg",
+    "index.html": "/index.html",
+    "static/media/mealIcon.svg": "/static/media/mealIcon.a624e33ffc898f64533293f800702223.svg",
+    "static/media/searchIcon.svg": "/static/media/searchIcon.e1cc1dac6974efbffbeb972f35f784bc.svg",
+    "static/media/exploreIcon.svg": "/static/media/exploreIcon.3f37191e33bd21fa1e49220467c16177.svg",
+    "static/media/profileIcon.svg": "/static/media/profileIcon.7f3a2609711221af850fb733d38c93ad.svg",
+    "main.6637be3c.css.map": "/static/css/main.6637be3c.css.map",
+    "main.ac90e2a5.js.map": "/static/js/main.ac90e2a5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6637be3c.css",
+    "static/js/main.ac90e2a5.js"
+  ]
+}
